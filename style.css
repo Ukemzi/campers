@@ -232,8 +232,8 @@ nav ul li a{
     z-index: 1;
 }
 .bottom-img{
-    height: 100%;
-    width: auto;
+    /* height: 100%; */
+    width: 100%;
 }
 
 /* Camps section styles */
@@ -305,7 +305,7 @@ nav ul li a{
     z-index: 1;
 }
 .footer-img{
-    width: 110%;
+    width: 100%;
     margin-top: -2px;
 }
 .footer-box{
@@ -313,7 +313,7 @@ nav ul li a{
 }
 .footer-box img{
     width: 120px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 .footer-box .fa{
     font-size: 25px;
